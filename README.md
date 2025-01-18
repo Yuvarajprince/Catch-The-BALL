@@ -10,7 +10,6 @@ A simple and fun game made with Python and Pygame where you control a paddle to 
 *   [Installation](#installation)
 *   [Controls](#controls)
 *   [Future Enhancements](#future-enhancements)
-*   [Contributing](#contributing) (Optional)
 *   [credits](#credits) 
 
 ## About
