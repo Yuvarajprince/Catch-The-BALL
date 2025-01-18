@@ -47,6 +47,7 @@ Catch the Ball is a classic arcade-style game implemented in Python using the Py
     ```
 
 3.  (Optional) Place `catch.wav` and `miss.wav` (sound files) in the same directory as the Python script. You can find free sound effects online. If you don't have sound effects, the game will still function, just without sound.
+   i have provided the sounds which i have used in my game.
 
 ## Controls
 
@@ -54,13 +55,6 @@ Catch the Ball is a classic arcade-style game implemented in Python using the Py
 *   **Right Arrow Key:** Move the paddle right.
 *   **Space Bar:** Start/Restart the game.
 
-## Screenshots
-
-(Optional: Add screenshots of your game here. This makes your README more visually appealing. You can use Markdown image syntax: `![Screenshot](path/to/screenshot.png)`)
-
-Example:
-
-![Game Screenshot](screenshot.png)
 
 ## Future Enhancements
 
